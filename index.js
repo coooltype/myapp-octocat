@@ -20,3 +20,11 @@ function substract (a, b) {
         return b-a;
     }
 }
+
+
+function logout(username) {
+    if (username !== undefined) {
+        // 로그아웃 처리
+    }
+
+}
