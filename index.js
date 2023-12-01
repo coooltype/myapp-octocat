@@ -26,5 +26,10 @@ function logout(username) {
     if (username !== undefined) {
         // 로그아웃 처리
     }
+}
 
+function login(username, password) {
+    if (username !== undefined && password !== undefined) {
+        // 인증 처리
+    }
 }
